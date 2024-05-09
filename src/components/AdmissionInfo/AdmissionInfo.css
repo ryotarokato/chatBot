@@ -1,0 +1,14 @@
+.admission-info-container {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+  
+  .admission-info-button {
+    border-style: dashed;
+    padding: 0.5rem;
+    border-radius: 25px;
+    background: transparent;
+    border: 1px solid rgb(73, 148, 148);
+    margin: 3px;
+  }
